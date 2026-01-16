@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 1. DEFINE THEMES */
+
+/* --- DEFAULT (Dark Mode) --- */
+:root {
+  --background: #0a0118;
+  --foreground: #ffffff;
+  --foreground-muted: #9ca3af;
+
+  /* Brand Colors */
+  --primary: #8a2be2;
+  --secondary: #7b71db; /* Matches your logo purple */
+  --accent-blue: #677ed6;
+
+  /* UI Elements */
+  --border-color: rgba(255, 255, 255, 0.1);
+  --card-bg: #120b18;
+  --grid-line: #4a4a6a;
+  --spotlight-opacity: 0.08;
+
+  /* Footer Specific */
+  --footer-bg: #060010;
+
+  /* Gradients */
+  --card-gradient-start: #1f1629;
+  --card-gradient-end: #120b18;
+
+  /* FAQ Specific */
+  --faq-closed-bg: #1b1724;
+  --faq-open-bg: #2b2338;
+  --scrollbar-track: #1b1724;
+  --scrollbar-thumb: #5b86d3;
+
+  /* Overlay Gradients */
+  --overlay-gradient-start: rgba(15, 5, 41, 0.8);
+  --overlay-gradient-end: rgba(5, 11, 41, 0.8);
+
+  /* Blog Overlay */
+  --image-overlay: rgba(93, 132, 211, 0.9);
+
+  /* Fluid Filter */
+  --canvas-filter: none;
+}
+
+/* --- LIGHT MODE OVERRIDE --- */
+[data-theme="light"] {
+  --background: #f4f4f5;
+  --foreground: #0b0219; /* Dark text for light bg */
+  --foreground-muted: #4a4a6a;
+
+  /* Brand Colors */
+  --primary: #8a2be2;
+  --secondary: #7b71db;
+  --accent-blue: #5b6ec2;
+
+  /* UI Elements */
+  --border-color: rgba(11, 2, 25, 0.1);
+  --card-bg: #ffffff;
+  --grid-line: rgba(11, 2, 25, 0.05);
+  --spotlight-opacity: 0.15;
+
+  /* Footer Specific */
+  --footer-bg: #eaebf0;
+
+  /* Gradients */
+  --card-gradient-start: #ffffff;
+  --card-gradient-end: #f4f4f5;
+
+  /* FAQ Specific */
+  --faq-closed-bg: #ffffff;
+  --faq-open-bg: #eaebf0;
+  --scrollbar-track: #e4e4e7;
+  --scrollbar-thumb: #7b71db;
+
+  /* Overlay Gradients */
+  --overlay-gradient-start: rgba(244, 244, 245, 0.8);
+  --overlay-gradient-end: rgba(244, 244, 245, 0.8);
+
+  /* Blog Overlay */
+  --image-overlay: rgba(123, 113, 219, 0.9);
+
+  /* Fluid Filter */
+  --canvas-filter: invert(1);
+}
+
+/* 2. APPLY TO BODY */
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--background);
+  color: var(--foreground);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
+  width: 100%;
+  position: relative;
+}
