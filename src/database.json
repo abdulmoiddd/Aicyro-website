@@ -1,0 +1,1504 @@
+{
+  "heroSection": {
+    "welcomeText": "WELCOME TO AICYRO SOLUTIONS",
+    "headingPrefix": "Revolutionizing",
+    "rotatingWords": [
+      "Intelligence",
+      "Security",
+      "Scalability",
+      "Innovation",
+      "Advancement",
+      "Growth"
+    ],
+    "paragraph": "Aicyro Solutions engineers smart, cyber-secure, and scalable software that solves real-world business challenges and drives measurable growth in today’s digital economy.",
+    "buttonPrimary": {
+      "text": "GET STARTED",
+      "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7"
+    },
+    "buttonSecondary": {
+      "text": "EXPLORE OUR SERVICES",
+      "link": "/services"
+    }
+  },
+
+  "principlesSection": {
+    "imageUrl": "https://dummyimages.netlify.app/principle%20page/principle.jpg",
+    "tagline": "AICYRO SOLUTIONS",
+    "mainHeading": "Our Work Principles",
+    "subtext": "At <strong class=\"font-semibold text-white\">Aicyro Solutions</strong>, our work is guided by principles that shape every project we undertake. We believe in building not just solutions, but lasting value for our clients.",
+    "imageAlt": "A diverse team collaborating in a modern office",
+    "stats": [
+      {
+        "value": "250+",
+        "label": "COMPLETED PROJECT"
+      },
+      {
+        "value": "10",
+        "label": "YEARS EXPERIENCE"
+      }
+    ],
+    "principlesList": [
+      {
+        "title": "Quality Above All",
+        "description": "Every detail matters. We ensure each project meets the highest standards of excellence, with precision and reliability at the core."
+      },
+      {
+        "title": "Innovation at Heart",
+        "description": "Technology evolves rapidly — and so do we. Our culture of innovation allows us to deliver cutting-edge solutions that keep our clients ahead in a competitive world."
+      }
+    ]
+  },
+
+  "keyFeatureSection": {
+    "introTag": "KEY FEATURE",
+    "introHeading": "Revolutionize Your Business with Aicyro Solutions",
+    "introText": "At <strong class=\"font-semibold text-gray-400\">Aicyro Solutions</strong>, we empower businesses with <strong class=\"font-semibold text-indigo-400\">AI-driven innovation</strong>, robust <strong class=\"font-semibold text-indigo-400\">cybersecurity</strong>, and <strong class=\"font-semibold text-indigo-400\">next-gen digital solutions</strong>. From intelligent automation to seamless web and mobile experiences, our expertise ensures <strong class=\"font-semibold text-gray-400\">smarter operations</strong>, <strong class=\"font-semibold text-gray-400\">stronger security</strong>, and <strong class=\"font-semibold text-gray-400\">sustainable growth</strong>.",
+    "introButton": {
+      "text": "GET STARTED",
+      "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7"
+    },
+    "whyUsTag": "WHY US?",
+    "whyUsHeading": "Redefining <span class=\"text-indigo-400\">Security</span>",
+    "whyUsSubtext": "We believe trust is earned. Our commitment to <strong class=\"font-semibold text-gray-400\">honesty, transparency,</strong> and <strong class=\"font-semibold text-gray-400\">accountability</strong> defines the way we work with every client and partner.",
+    "principlesList": [
+      {
+        "title": "Clarify in Thought and Style",
+        "description": "Excellence begins with clarity of vision. We approach every project with a clear strategy, innovative mindset, and refined design that ensures simplicity, impact, and purpose.",
+        "icon": "clarity"
+      },
+      {
+        "title": "Perfection Beyond Time",
+        "description": "Perfection doesn't follow a 9-to-5 o'clock. We dedicate ourselves to constant refinement, dedication, and passion — pushing boundaries until excellence is achieved.",
+        "icon": "perfection"
+      }
+    ]
+  },
+
+  "weOfferSection": {
+    "tagline": "WHAT WE OFFER",
+    "mainHeading": "Where Innovation Drives Results",
+    "description": "Aicyro Solutions delivers end-to-end services that help startups and enterprises scale. SaaS development creates market-ready products.",
+    "features": [
+      {
+        "title": "SaaS development",
+        "description": "SaaS development at Aicyro Solutions helps startups launch MVPs in 30–45 days. We define scope through workshops, build in agile sprints, secure with VAPT testing, and deploy on cloud-first infrastructure.",
+        "icon": "code",
+        "image": "https://dummyimages.netlify.app/services/HDSaaS%20development.jpg",
+        "button": {
+          "text": "From Idea to SaaS: Read the Full Guide",
+          "link": "/services/saas-development",
+          "icon": "lightning"
+        }
+      },
+      {
+        "title": "Cybersecurity & Data Protection",
+        "description": "Cybersecurity services at Aicyro Solutions protect systems before threats occur. We run vulnerability assessments, penetration testing, red teaming, and compliance audits. Our approach helps fintech, healthcare, SaaS, and enterprises pass audits and prevent breaches.",
+        "icon": "lock_globe",
+        "image": "https://dummyimages.netlify.app/services/HDCybersecurity%20&%20Data%20Protection.jpg",
+
+        "button": {
+          "text": "How Businesses Stay Secure from Cyber Threats",
+          "link": "/services/cybersecurity-data-protection",
+          "icon": "lightning"
+        }
+      },
+      {
+        "title": "AI Solutions",
+        "description": "AI solutions transform raw data into predictive insights. Our process starts with discovery workshops, moves into data preparation, and builds models trained on real business needs.",
+        "icon": "Bot",
+        "image": "https://dummyimages.netlify.app/services/HDAI%20Solutions%20.jpg",
+
+        "button": {
+          "text": "Learn How AI Models Are Built",
+          "link": "/services/ai-solutions",
+          "icon": "lightning"
+        }
+      },
+
+      {
+        "title": "QA & Automation",
+        "description": "QA automation reduces bugs and improves software reliability. We begin with manual testing, build automation scripts, validate APIs, and run performance tests.",
+        "icon": "CircleCheckBig",
+        "image": "https://dummyimages.netlify.app/services/HDQA%20&%20Automation.jpg",
+
+        "button": {
+          "text": "Learn How Bugs Are Caught Before Release",
+          "link": "/services/qa-automation",
+          "icon": "lightning"
+        }
+      },
+
+      {
+        "title": "Cloud & DevOps",
+        "description": "Cloud and DevOps solutions improve speed, reliability, and cost optimization. We migrate applications to AWS, Azure, or GCP, set up CI/CD pipelines, integrate security, and build scalable architecture",
+        "icon": "CloudUpload",
+        "image": "https://dummyimages.netlify.app/services/HDCloud%20&%20DevOps.jpg",
+
+        "button": {
+          "text": "Learn How Bugs Are Caught Before Release",
+          "link": "/services/qa-automation",
+          "icon": "lightning"
+        }
+      },
+      {
+        "title": "Web Development",
+        "description": "We build secure and scalable platforms tailored to your business needs — from backend systems to modern websites.",
+        "icon": "LayoutTemplate",
+        "image": "https://dummyimages.netlify.app/services/HDWeb%20Development.jpg",
+
+        "button": {
+          "text": "Learn Modern Web Development Techniques",
+          "link": "/services/web-development",
+          "icon": "lightning"
+        }
+      },
+      {
+        "title": "App Development",
+        "description": "Seamless Android and iOS apps designed for speed, usability, and long-term growth.",
+        "icon": "LayoutGrid",
+        "image": "https://dummyimages.netlify.app/services/HDApp%20Development.jpg",
+
+        "button": {
+          "text": "How Successful Apps Are Designed & Built",
+          "link": "/services/app-development",
+          "icon": "lightning"
+        }
+      },
+      {
+        "title": "Blockchain",
+        "description": "Innovative blockchain solutions, from smart contracts to decentralized applications, built for the future.",
+        "icon": "ChartColumnIncreasing",
+        "image": "https://dummyimages.netlify.app/services/HDBlockchain.jpg",
+
+        "button": {
+          "text": "Inside Smart Contracts & Apps",
+          "link": "/services/blockchain",
+          "icon": "lightning"
+        }
+      }
+    ]
+  },
+
+  "exploreSection": {
+    "header": {
+      "title": "Exploring Digital Frontiers with Aicyro Solutions: Your Trusted Partner",
+      "subtitle": "Unlock endless digital possibilities with Aicyro Solutions — delivering innovation, security, and scalable growth for businesses worldwide."
+    },
+    "communicationBlock": {
+      "title": "Clear & Prompt Communication",
+      "imageUrl": "https://dummyimages.netlify.app/contact/image1.png",
+      "description": "We ensure open, honest, and timely communication — keeping you updated at every stage of your project.",
+      "button": {
+        "text": "GET STARTED",
+        "link": "https://calendar.app.google/z5GZpzeNAPNfvqHE7"
+      },
+      "imageAlt": "Digital product screenshot"
+    },
+    "bookingBlock": {
+      "imageUrl": "https://dummyimages.netlify.app/contact/image2.png",
+      "title": "Book a call with our team and explore how we can deliver secure and scalable solutions.",
+      "imageAlt": "Team members collaborating"
+    },
+    "supportBlock": {
+      "title": "Premium Support",
+      "phoneNumber": "+92 51 6122768",
+      "starRating": 5,
+      "description": "Contact Aicyro Solutions to discuss your project",
+      "button": {
+        "text": "CONTACT US",
+        "link": "/contact"
+      }
+    },
+    "ratingsBlock": {
+      "rating": "4.9 +",
+      "title": "Client Ratings",
+      "starRating": 5,
+      "description": "Trusted by businesses across industries, our clients consistently rate us highly for reliability, innovation, and results."
+    },
+    "scalableBlock": {
+      "title": "Scalable Solutions",
+      "description": "From startups to enterprises, our solutions grow with you — providing flexibility, efficiency, and long-term success.",
+      "button": {
+        "text": "CONTACT US",
+        "link": "/contact"
+      }
+    }
+  },
+
+  "testimonialSection": {
+    "tagline": "TESTIMONIAL",
+    "mainHeading": "Client Feedback & Reviews",
+    "subText": "See what our clients say about working with Aicyro Solutions. Real stories, real success.",
+    "testimonials": [
+      {
+        "name": "Jacky Tse, Owner, ",
+        "location": "JTune Automotive",
+        "avatar": "https://dummyimages.netlify.app/testimonials/jackyjse.jpg",
+        "rating": 5,
+        "feedback": "Aicyro completely transformed operations at JTune Automotive. Their workshop management SaaS unified job cards, mechanic tracking, inventory, billing, and history into one powerful system. We reduced parts loss, improved efficiency, and gained full visibility over every job and profit margin. As a growing auto workshop, this software is now essential to our daily operations."
+      },
+      {
+        "name": "Mohammad Hossam, CTO",
+        "location": "Chief Technology Officer",
+        "avatar": "https://dummyimages.netlify.app/testimonials/mhossam.jpg",
+        "rating": 5,
+        "feedback": "Our real estate agency handles sensitive data for high-net-worth individuals, and we were facing serious data security concerns. Aicyro secured our entire infrastructure and stopped ongoing threats. Their cyber security services, continuous monitoring, and dedicated support saved us from a major data breach. We now operate with full confidence knowing our information is safe."
+      },
+      {
+        "name": "James Carter",
+        "location": "London, UK",
+        "avatar": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+        "rating": 5,
+        "feedback": "Aicyro built a complete custom clinic appointment and patient record management system for our hospital in the USA. Everything from scheduling to secure medical records is now fully automated and easy to manage. The system drastically improved our efficiency, reduced manual errors, and enhanced patient care. It’s a powerful, secure healthcare software solution we truly trust."
+      },
+
+      {
+        "name": "Olivia Brown",
+        "location": "Sydney, Australia",
+        "avatar": "https://i.pravatar.cc/250?u=mail@ashallendesign.co.uk",
+        "rating": 5,
+        "feedback": "We had no idea how insecure our SaaS platform was until Aicyro performed a full cyber security audit. They identified over 100 vulnerabilities and strengthened our system from 53% to 81% security. Now we are fully confident that our data, admin portal, and customer information are protected from cyber threats. Aicyro is truly an expert in SaaS security and penetration testing."
+      }
+    ]
+  },
+
+  "projectsData": {
+    "project01": {
+      "id": 1,
+
+      "description": "Kaira is an AI-powered personalized financial wellness application offered as a benefit to employees. It connects securely to financial institutions to track behavior, offering digital coaching to improve financial health and reduce stress. Employers gain access to 'Kaira Insight', a business intelligence dashboard to monitor the aggregated financial well-being of their workforce.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/kaira.jpg",
+      "projectUrl": "/portfolio/kaira",
+      "details": {
+        "country": "Montreal, Canada",
+        "duration": "5 months",
+        "developers": "5 developers"
+      }
+    },
+    "project02": {
+      "id": 2,
+      "title": "New York City Tourism",
+      "description": "The official destination marketing organization and convention and visitors bureau for New York City. The platform serves as the primary resource for visitors, meeting planners, and travel trade, featuring dynamic guides for all five boroughs, an AI-powered travel companion (Libby), and comprehensive booking tools for hotels, dining, and Broadway shows.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/NYC.jpg",
+      "projectUrl": "/portfolio/nyctourism",
+
+      "details": {
+        "country": "New York, NY, USA",
+        "duration": "8 months",
+        "developers": "5 developers"
+      }
+    },
+    "project03": {
+      "id": 3,
+      "title": "Shady Rays",
+      "description": "Shady Rays is a premier direct-to-consumer eyewear brand offering high-quality, polarized sunglasses backed by an industry-leading 'Lost & Broken' replacement warranty. The platform features a custom-built warranty claims portal, virtual try-on technology, and a VIP loyalty program, all integrated within a high-performance Shopify Plus e-commerce environment.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/ShadyRays.jpg",
+      "projectUrl": "/portfolio/shady",
+
+      "details": {
+        "country": "Simpsonville, KY, USA",
+        "duration": "9 months",
+        "developers": "6 developers"
+      }
+    },
+    "project04": {
+      "id": 4,
+      "title": "JBB & Associates",
+      "description": "A professional digital platform for a Philadelphia-based accounting and advisory firm. The website streamlines client engagement through integrated appointment scheduling, secure document portals, and comprehensive service funnels for tax preparation, bookkeeping, and business formation.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/Jbband.jpg",
+      "projectUrl": "/portfolio/jbb",
+
+      "details": {
+        "country": "Philadelphia, PA",
+        "duration": "6 months",
+        "developers": "9 developers"
+      }
+    },
+    "project05": {
+      "id": 5,
+      "title": "POLITICO Pro",
+      "description": "POLITICO Pro is a premium, customizable policy intelligence platform designed for government affairs professionals. It combines rigorous non-partisan reporting with advanced data tools, AI-driven analysis, and legislative tracking to help users monitor developments, collaborate on strategy, and influence policy outcomes at both federal and state levels.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/politicopro.jpg",
+
+      "projectUrl": "/portfolio/politico",
+      "details": {
+        "country": "Arlington, Virginia, USA",
+        "duration": "5 months",
+        "developers": "6 developers"
+      }
+    },
+    "project06": {
+      "id": 6,
+      "title": "Cove.ai",
+      "description": "Cove is an intelligent visual workspace designed for collaborative thinking with AI. Unlike linear chatbots, it offers an infinite canvas where users and AI work side-by-side to research, plan, and create. It features real-time multiplayer editing, multi-model AI integration (Anthropic, OpenAI, Perplexity), and the ability to generate custom 'AI Apps' on the fly for specific tasks.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/cove%20ai.jpg",
+      "projectUrl": "/portfolio/cove",
+
+      "details": {
+        "country": "Palo Alto, CA",
+        "duration": "3 months",
+        "developers": "6 developers"
+      }
+    },
+    "project07": {
+      "id": 7,
+      "title": "HPL Games",
+      "description": "A blockchain-powered web application and smart contract ecosystem designed for HPL Games, an innovative mobile gaming startup. The platform facilitates the Initial Coin Offering (ICO) of the HPL token, integrates a Play-to-Earn (P2E) economy, and provides a secure infrastructure for in-game currency transactions. Key features include a pre-sale token purchasing interface, liquidity pool management, and seamless crypto wallet connectivity.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/cubix.co.jpg",
+      "projectUrl": "/portfolio/hpl",
+
+      "details": {
+        "country": "San Francisco, USA",
+        "duration": "7 months",
+        "developers": "6 developers"
+      }
+    },
+    "project08": {
+      "id": 8,
+      "title": "Go Grocer",
+      "description": "Go Grocer is a boutique grocery chain based in Chicago that bridges the gap between a neighborhood market and ultra-fast delivery. The digital platform transforms their brick-and-mortar footprint into a hybrid fulfillment network, offering customers fresh meals, alcohol, and essentials via a seamless web and mobile app experience, often delivering in under 30 minutes.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/Go%20Grocer.jpg",
+      "projectUrl": "/portfolio/go",
+
+      "details": {
+        "country": "Chicago, IL",
+        "duration": "8 months",
+        "developers": "5 developers"
+      }
+    },
+    "project09": {
+      "id": 9,
+      "title": "ZipZap ",
+      "description": "ZipZap is a premier car subscription service in Singapore launched by GetGo, offering a flexible, no-deposit alternative to traditional car ownership. The platform allows users to lease vehicles for as short as 6 months with an all-inclusive fee covering insurance, road tax, and maintenance. A key innovation is the 'Subscribe & Share' feature, which enables subscribers to list their idle vehicles on the GetGo car-sharing network to offset subscription costs.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/zipzap.jpg",
+      "projectUrl": "/portfolio/zipzap",
+
+      "details": {
+        "country": "Singapore",
+        "duration": "6 months",
+        "developers": "5 developers"
+      }
+    }
+  },
+
+  "contactSection": {
+    "formContent": {
+      "heading": "Let's Build Something Together",
+      "subHeading": "Book a call with our team and explore how we can deliver secure and scalable solutions",
+      "submitButtonText": "Submit",
+      "successMessage": "Inquiry submitted successfully! We will be in touch shortly."
+    },
+    "infoContent": {
+      "mainHeading": "Contact Aicyro Solutions",
+      "subTitle": "AI, SaaS & Cybersecurity Partner",
+      "socialLinks": [
+        {
+          "icon": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61580451864408&mibextid=wwXIfr&mibextid=wwXIfr"
+        },
+        {
+          "icon": "linkedin",
+          "url": "https://www.linkedin.com/company/aicyro007/"
+        },
+        {
+          "icon": "instagram",
+          "url": "https://www.instagram.com/ai.cy.ro?igsh=anY5NGluanozdHJu"
+        }
+      ],
+      "contactDetails": [
+        {
+          "title": "HEAD OFFICE",
+          "icon": "location",
+          "lines": ["Islamabad, Punjab,", "Pakistan"]
+        },
+        {
+          "title": "EMAIL SUPPORT",
+          "icon": "mail",
+          "lines": ["info@aicyro.com"],
+          "link": "mailto:info@aicyro.com"
+        },
+        {
+          "title": "WORKING HOURS",
+          "icon": "clock",
+          "lines": ["Monday - Friday", "07am - 09pm"]
+        },
+        {
+          "title": "24/7 SUPPORT",
+          "icon": "headset",
+          "lines": ["Aicyro Solutions offers", "24/7 Support"]
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108879.79979069018!2d72.92984924999999!3d33.6156543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38dfbe29013c77d3%3A0xcb18129774640825!2sIslamabad%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2sus!4v1700684260000!5m2!1sen!2sus"
+    }
+  },
+
+  "inquiries": {
+    "-Nq8tY7oA-1jZ_m_B2fG": {
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "subject": "Inquiry about SaaS Development",
+      "message": "I'd like to discuss an MVP project.",
+      "status": "new",
+      "timestamp": 1700684260000
+    }
+  },
+
+  "Servicessubpages": {
+    "SaaSDevelopment": {
+      "Title": "The SaaS Scalability Playbook 2025: How Modern SaaS is Built",
+      "Meta Description": "Here’s the hard truth nobody tells early-stage founders: SaaS products don’t fail because of the idea — they fail because the architecture breaks before the business grows.",
+      "Sections": [
+        {
+          "id": "problem",
+          "title": "The Problem: Hidden Engineering Debt",
+          "content": "Founders usually don’t notice the problem until it’s too late.\n\nReal painful symptoms:\n• Slow onboarding\n• Tenant data mixing (security risk)\n• High server bills\n• Downtime during peak traffic\n• Manual deployments\n• Bug fixes taking days\n\nMost SaaS platforms are never built to scale — they are built to “launch.” Scaling is an afterthought."
+        },
+        {
+          "id": "story",
+          "title": "A Real Story: From Struggle to Scale",
+          "content": "A European SaaS workflow platform approached us after hitting 1,200 paid users.\n\nTheir issues:\n• Every customer had a separate deployment\n• Updates required manual patching\n• API response time increased from 280ms → 1.8s\n• Cloud cost increased 4× in six months\n\nThis wasn’t a tech problem. It was an architecture problem."
+        },
+        {
+          "id": "action",
+          "title": "What We Did (Founder-Friendly Summary)",
+          "content": "We rebuilt their core with:\n• Multi-tenancy\n• Microservices\n• Serverless functions for heavy workloads\n• Centralized logging & monitoring\n• AI-driven performance anomaly detection\n\nResult after 60 days:\n• 58% cloud cost reduction\n• 4× faster deployments\n• 99.98% uptime\n\nThat is the power of building SaaS the right way."
+        },
+        {
+          "id": "framework",
+          "title": "The AICYRO SaaS Architecture Framework",
+          "content": "This is what every modern SaaS must have:\n\n1. Multi-Tenancy\nSecure tenant separation, shared infrastructure, and automated provisioning.\n\n2. Microservices or Modular Architecture\nNo more monolith upgrades that take down the whole system. Break systems into independent modules.\n\n3. AI-Enabled Operations\nAI handles anomaly detection, auto-scaling decisions, and usage forecasting.\n\n4. Automated CI/CD Pipeline\nManual deployment is dangerous. CI/CD ensures faster releases and predictable rollbacks."
+        },
+        {
+          "id": "solution",
+          "title": "The Solution: How We Build SaaS",
+          "content": "Our approach is simple:\n• Architect for scale\n• Automate everything\n• Add AI where it saves cost\n• Protect data like a bank\n• Monitor everything in real time\n\nThis gives founders:\n✔ Faster to market\n✔ Lower development cost\n✔ Easier scaling\n✔ Stronger security\n✔ Higher investor confidence"
+        }
+      ]
+    },
+    "Cybersecurity": {
+      "Title": "The 2025 Cybersecurity Reality Check: Why Data Protection Is Now a Revenue Problem",
+      "Meta Description": "In 2025, the biggest financial risk for companies isn’t competition — it’s a security breach. One breach = lost customers, frozen operations, and reputation damage.",
+      "Sections": [
+        {
+          "id": "reality",
+          "title": "The Reality: Profit-Protection Engine",
+          "content": "Here’s the hard truth:\nIn 2025, the biggest financial risk for companies isn’t competition — it’s a security breach.\n\nFounders used to think cybersecurity was a technical expense. Now, it’s a profit-protection engine.\nOne breach = lost customers, frozen operations, legal penalties, and reputation damage that takes years to undo."
+        },
+        {
+          "id": "problem",
+          "title": "The Problem: Automated Attacks",
+          "content": "Your company is not being attacked by “hackers.” It’s being attacked by:\n• AI-driven phishing engines\n• Automated ransomware bots\n• Credential stuffing scripts\n• API-targeting bots\n• Cloud misconfiguration scanners\n\nThe attack surface isn’t your server — it’s your employees, contractors, devices, apps, APIs, and every SaaS tool you use.\n\nThis is why modern cybersecurity must be:\n✔ Predictive\n✔ Automated\n✔ Data-driven\n✔ Human-centered\n✔ Built into the business, not added later"
+        },
+        {
+          "id": "story",
+          "title": "A Real-World Story: The Human Error",
+          "content": "A European retail chain contacted us after a seemingly “small incident”:\nOne employee downloaded a fake Chrome update. That malware silently logged keystrokes for 72 hours.\n\nResult?\n• 13 passwords stolen\n• 4 SaaS accounts compromised\n• 2TB of customer data at risk\n• 3 stores unable to process online orders\n\nThis wasn’t a sophisticated attack. It was one moment of human error."
+        },
+        {
+          "id": "response",
+          "title": "How We Contained It",
+          "content": "To contain and recover:\n✔ Reset all credentials using privileged rotation\n✔ Activated MFA enforcement\n✔ Deployed EDR across endpoints\n✔ Ran cloud configuration scans\n✔ Mapped and isolated compromised APIs\n✔ Created a zero-trust access policy\n✔ Implemented phishing training for staff\n\nDamage was controlled within 36 hours. Losses reduced by 80%. This is what modern cybersecurity looks like — fast, layered, automated, human-aware."
+        },
+        {
+          "id": "architecture",
+          "title": "The AICYRO Cyber Defense Architecture",
+          "content": "These are the non-negotiables for 2025 cybersecurity:\n\n1. Zero-Trust Security (No One Is Trusted Automatically)\nNot employees, not devices, not apps. Every action must be verified.\n\n2. Data Protection by Design\nEncrypt at rest, in transit, and inside the application. Apply least-privilege access and log everything.\n\n3. AI-Powered Threat Detection\nAI now detects anomalies in cloud activity, ransomware patterns, and API abuse. This reduces detection time from days to minutes.\n\n4. Cloud Security Hardening (AWS/Azure/GCP/SaaS)\nMost breaches happen because of misconfigurations and over-permissive IAM roles. Modern cloud requires continuous scanning.\n\n5. Immutable & Air-Gapped Backups\nRansomware-proof backups. If data can’t be modified → you can always recover.\n\n6. Documented Incident Response Playbook\nA one-page IR plan saves millions during a breach. Who does what → in minutes, not hours.\n\n7. Human Risk Management\n95% of breaches start with people. Phishing simulation and MFA enforcement are mandatory."
+        },
+        {
+          "id": "approach",
+          "title": "The AICYRO Approach & Playbook",
+          "content": "Our method ensures:\n✔ Business continuity\n✔ Lower breach probability\n✔ Lower financial losses\n✔ Audit-ready compliance\n\nActionable Insights for Founders:\n• Audit your cloud + SaaS configuration quarterly (80% of breaches are misconfigurations).\n• Implement Zero-Trust for all employees & vendors.\n• Set up immutable backups today.\n• Train your team monthly.\n• Automate detection & response."
+        }
+      ]
+    },
+    "AISolutions": {
+      "Title": "AI Solutions in 2025 | AICYRO",
+      "Meta Description": "AI isn’t just a buzzword — it’s the engine that separates businesses that scale from businesses that stall.",
+      "HeaderImage": "images/ai_header.jpg",
+      "Sections": [
+        {
+          "id": "intro",
+          "title": "The Hard Truth",
+          "content": "Here’s the hard truth every founder needs to hear:\nAI isn’t just a buzzword — it’s the engine that separates businesses that scale from businesses that stall.\nIn 2025, companies are no longer asking if AI should be implemented. They are asking how fast they can integrate it into operations, sales, customer service, and strategic decision-making.\nBut most AI projects fail. Why? Poor planning, siloed systems, and lack of actionable outcomes."
+        },
+        {
+          "id": "problem",
+          "title": "The Problem: AI Without Purpose",
+          "content": "Founders often invest in AI for:\n• Chatbots\n• Predictive analytics\n• Automated reporting\n\n…but without a strategy:\n• Teams don’t adopt AI tools\n• Data becomes siloed\n• ROI is slow or negative\n• Customers notice inconsistent automation\n\nThe risk: AI projects that look impressive on a slide but fail in production."
+        },
+        {
+          "id": "story",
+          "title": "A Real-World Story",
+          "content": "A mid-sized e-commerce client was drowning in manual processes:\n• Customer queries took 24+ hours to resolve\n• Inventory updates lagged by a day\n• Marketing campaigns were manually segmented\n\nWe implemented AI solutions:\n• AI-powered chatbots handling 60% of queries instantly\n• Predictive inventory management forecasting shortages\n• Personalized AI-driven marketing campaigns\n\nResults in 90 days:\n• Customer satisfaction rose by 35%\n• Inventory errors dropped by 80%\n• Sales conversion increased by 22%\nThe AI didn’t replace humans — it amplified their impact."
+        },
+        {
+          "id": "framework",
+          "title": "The AICYRO Framework",
+          "content": "1. Intelligent Automation\nAutomate repetitive tasks:\n• Workflow approvals\n• Data reconciliation\n• Reporting dashboards\n\n2. Predictive Analytics\nAI models forecast trends before humans see them:\n• Demand planning\n• Customer churn prediction\n• Resource allocation\n\n3. AI-Enhanced Decision Making\nAI suggests optimal strategies, but humans still decide:\n• Pricing strategies\n• Marketing optimization\n• Risk assessment\n\n4. Natural Language Processing (NLP)\nTurn unstructured text into actionable insights:\n• Customer feedback analysis\n• Contract review\n• Social listening\n\n5. AI for Security & Compliance\n• Detect anomalies in real time\n• Flag suspicious transactions\n• Automate audit reports"
+        },
+        {
+          "id": "insights",
+          "title": "Actionable Insights",
+          "content": "• Start with high-impact, repetitive tasks for automation\n• Integrate AI into existing workflows, don’t rebuild from scratch\n• Combine human judgment with AI recommendations\n• Track measurable ROI for every AI project\n• Continuously retrain models with updated data"
+        },
+        {
+          "id": "advantage",
+          "title": "Your Competitive Advantage",
+          "content": "Why AI is the Founder’s Competitive Advantage in 2025\n✔ Reduces operational costs\n✔ Speeds up decision-making\n✔ Enhances customer satisfaction\n✔ Scales teams without increasing headcount\n✔ Provides actionable insights instantly\n\nThe companies winning in 2025 aren’t the ones with more staff — they are the ones using AI as a strategic co-founder."
+        }
+      ]
+    },
+    "QAAutomation": {
+      "Title": "QA & Automation in 2025: Product Velocity",
+      "Meta Description": "Bugs don’t kill products. Slow releases do. In 2025, speed is everything. But speed without quality is chaos.",
+      "Sections": [
+        {
+          "id": "problem",
+          "title": "The Problem: Manual QA Doesn’t Scale",
+          "content": "Most teams still rely on:\n• Manual regression testing\n• Last-minute test cycles before release\n• Human testers repeating the same flows\n\nThis creates predictable failures:\n• Releases get delayed\n• Bugs escape into production\n• Teams lose confidence in deployments\n• Engineering velocity drops\n\nFounders feel this as missed deadlines, churned customers, and rising costs."
+        },
+        {
+          "id": "story",
+          "title": "A Real Story: When QA Became the Bottleneck",
+          "content": "A SaaS startup we worked with shipped weekly updates — but production bugs were increasing.\n\nReality on the ground:\n• QA team spent 70% of time on repetitive tests\n• Critical edge cases were missed\n• Hotfixes became normal\n\nWe introduced test automation across core workflows:\n• Automated regression tests\n• API test coverage\n• CI/CD-integrated test pipelines\n\nResults after 60 days:\n• Release confidence increased dramatically\n• Production bugs dropped by 65%\n• Deployment frequency doubled\n\nAutomation didn’t remove QA — it freed QA to think."
+        },
+        {
+          "id": "framework",
+          "title": "The AICYRO QA & Automation Framework",
+          "content": "1. Shift-Left Testing\nTesting starts early:\n• Unit tests during development\n• API tests before UI\n• Bugs caught before they become expensive\n\n2. Automated Regression Testing\nEvery critical flow is protected:\n• Login\n• Payments\n• User permissions\n• Integrations\nIf it worked yesterday, automation ensures it works today.\n\n3. CI/CD Integrated QA\nEvery deployment triggers:\n• Automated test suites\n• Smoke tests\n• Performance checks\nNo manual approvals. No guesswork.\n\n4. Performance & Load Testing\nFounders rarely test this — until it’s too late. Automation simulates:\n• Peak traffic\n• Payment spikes\n• Concurrent users\n\n5. AI-Assisted Test Intelligence\nAI helps:\n• Identify high-risk areas\n• Suggest missing test cases\n• Reduce flaky tests"
+        },
+        {
+          "id": "truth",
+          "title": "What No One Tells You About QA Automation",
+          "content": "❌ It’s not about “automating everything”\n❌ It’s not about replacing testers\n✔ It’s about automating repetition\n✔ Letting humans focus on edge cases\n✔ Protecting velocity as the product scales"
+        },
+        {
+          "id": "actionable",
+          "title": "Actionable Takeaways for Founders",
+          "content": "• Automate your most critical user journeys first\n• Integrate QA into CI/CD — not after deployment\n• Measure quality with metrics, not feelings\n• Combine manual exploratory testing with automation\n• Treat QA as infrastructure, not a checkbox"
+        },
+        {
+          "id": "advantage",
+          "title": "Why QA Automation Is a Business Advantage",
+          "content": "✔ Faster releases\n✔ Fewer production incidents\n✔ Lower support costs\n✔ Higher customer trust\n✔ Confident scaling\n\nIn 2025, software quality is a growth strategy."
+        },
+        {
+          "id": "cta",
+          "title": "Start Building Reliable Software",
+          "content": "To help teams ship faster without breaking things, AICYRO offers:\n• Free QA Maturity Assessment – identify gaps in your testing pipeline\n• Automation Readiness Checklist (2025 Edition)\n• QA Strategy Consultation – build a test framework that scales with your product\n\nYour product should move fast — without breaking trust."
+        }
+      ]
+    },
+    "CloudDevOps": {
+      "Title": "Cloud & DevOps in 2025: Intelligent Architecture",
+      "Meta Description": "The AICYRO Deep Dive Into Modern Cloud Operations: Speed without stability is risk. Stability without speed is death.",
+      "Sections": [
+        {
+          "id": "problem",
+          "title": "The Problem: Growth Breaks Traditional Infrastructure",
+          "content": "Most teams move to the cloud… and stop there.\nWhat happens next:\n• Manual deployments slow releases\n• Downtime increases during traffic spikes\n• Cloud costs spiral out of control\n• Engineers become on-call firefighters\n\nFounders experience this as missed SLAs, customer churn, and rising burn rate."
+        },
+        {
+          "id": "story",
+          "title": "A Real Story: When Scaling Exposed the Cracks",
+          "content": "A SaaS company we worked with doubled users in six months.\nWhat broke first:\n• Deployments took hours\n• Rollbacks were manual and risky\n• One bad release caused a 3-hour outage\n\nWe rebuilt their stack using cloud-native DevOps principles.\nResults within 90 days:\n• Deployment time reduced from hours to minutes\n• Downtime reduced by 70%\n• Infrastructure costs stabilized despite growth\n\nThe cloud didn’t fail them — how they used it did."
+        },
+        {
+          "id": "framework",
+          "title": "The AICYRO Cloud & DevOps Framework",
+          "content": "1. Infrastructure as Code (IaC)\nCloud resources defined as code:\n• Predictable environments\n• No manual configuration drift\n• Fast recovery\n\n2. CI/CD Pipelines That Don’t Break Production\nEvery change goes through:\n• Automated testing\n• Security checks\n• Controlled deployments\nShipping becomes routine — not risky.\n\n3. Observability Over Guesswork\nModern DevOps monitors:\n• Logs\n• Metrics\n• Traces\nIssues are detected before customers notice.\n\n4. Cloud Cost Intelligence\nAI-driven cost controls:\n• Right-sizing resources\n• Eliminating waste\n• Forecasting spend\nGrowth should increase revenue — not surprises on the bill.\n\n5. Built-In Security (DevSecOps)\nSecurity is automated:\n• Secrets management\n• Vulnerability scanning\n• Policy enforcement"
+        },
+        {
+          "id": "truth",
+          "title": "What No One Tells You About Cloud & DevOps",
+          "content": "❌ Moving to the cloud does not make you scalable\n❌ DevOps tools alone don’t create DevOps culture\n✔ Automation does\n✔ Ownership does\n✔ Observability does"
+        },
+        {
+          "id": "actionable",
+          "title": "Actionable Takeaways for Founders",
+          "content": "• Treat infrastructure as code, not configuration\n• Automate deployments before scaling teams\n• Measure downtime and deployment frequency\n• Build security into pipelines, not after incidents\n• Track cloud cost as a first-class metric"
+        },
+        {
+          "id": "advantage",
+          "title": "Why Cloud & DevOps Is a Competitive Advantage",
+          "content": "✔ Faster product launches\n✔ Higher reliability\n✔ Predictable costs\n✔ Happier engineering teams\n✔ Confident scaling\n\nIn 2025, Cloud & DevOps is your operating system."
+        },
+        {
+          "id": "cta",
+          "title": "Build Fast. Scale Safely.",
+          "content": "To help companies scale without chaos, AICYRO offers:\n• Free Cloud & DevOps Assessment\n• 2025 Cloud Readiness Checklist\n• DevOps Architecture Consultation\n\nOperate intelligently."
+        }
+      ]
+    },
+    "WebDevelopment": {
+      "Title": "Web Development in 2025: High-Performance Growth",
+      "Meta Description": "Here’s a hard truth founders don’t hear often: Websites don’t fail because they look bad. They fail because they don’t convert.",
+      "Sections": [
+        {
+          "id": "problem",
+          "title": "The Problem: Traditional Websites Don’t Drive Growth",
+          "content": "Most companies still build websites that:\n• Focus on visuals over performance\n• Ignore user behavior data\n• Load slowly on mobile\n• Fail to guide visitors toward action\n\nFounders feel this as:\n• High traffic, low conversions\n• Expensive paid ads with poor ROI\n• Leads that don’t qualify"
+        },
+        {
+          "id": "story",
+          "title": "A Real Story: When Traffic Didn’t Turn Into Revenue",
+          "content": "A B2B SaaS company came to us with strong SEO traffic but weak lead flow.\nWhat we found:\n• No clear user journey\n• Long load times on key pages\n• Generic messaging that didn’t speak to pain points\n\nWe rebuilt their platform using AI-powered, conversion-first web development.\nResults in 90 days:\n• Bounce rate reduced by 48%\n• Lead conversion increased by 2.6×\n• Page load time under 2 seconds\n\nThe difference wasn’t design — it was intent."
+        },
+        {
+          "id": "framework",
+          "title": "The AICYRO Web Development Framework",
+          "content": "1. Performance-First Architecture\nWe build for speed:\n• Lightweight frameworks\n• Optimized assets\n• Server-side rendering\nFast sites rank better and convert more.\n\n2. AI-Driven UX Personalization\nAI adapts content based on:\n• Visitor behavior\n• Traffic source\n• Device type\nEvery visitor sees the most relevant experience.\n\n3. SEO Built Into the Code\nSEO is not an afterthought:\n• Clean semantic HTML\n• Core Web Vitals optimization\n• Structured data\nSearch engines reward technically sound sites.\n\n4. Conversion-Focused Design\nEvery page answers:\n• Who is this for?\n• What problem do we solve?\n• What should the user do next?\nDesign serves business goals — not ego.\n\n5. Secure & Scalable Foundations\nWebsites must be:\n• Secure by default\n• Cloud-ready\n• Easy to scale"
+        },
+        {
+          "id": "truth",
+          "title": "What No One Tells You About Web Development",
+          "content": "❌ Fancy animations don’t equal engagement\n❌ More pages don’t mean more leads\n✔ Clarity converts\n✔ Speed builds trust\n✔ Structure drives action"
+        },
+        {
+          "id": "actionable",
+          "title": "Actionable Takeaways for Founders",
+          "content": "• Treat your website as a growth system, not a project\n• Optimize performance before adding features\n• Build SEO into architecture, not content only\n• Use AI to personalize user journeys\n• Design every page around one clear action"
+        },
+        {
+          "id": "advantage",
+          "title": "Why Modern Web Development Is a Competitive Advantage",
+          "content": "✔ Higher conversions\n✔ Lower acquisition costs\n✔ Stronger brand credibility\n✔ Better SEO rankings\n✔ Scalable growth\n\nIn 2025, your website is your best salesperson."
+        },
+        {
+          "id": "cta",
+          "title": "Build Smarter. Convert Faster.",
+          "content": "To help companies turn websites into growth engines, AICYRO offers:\n• Free Website Performance Audit\n• Conversion Optimization Checklist (2025)\n• AI-Powered Web Strategy Consultation\n\nGrow consistently."
+        }
+      ]
+    },
+    "AppDevelopment": {
+      "Title": "App Development in 2025: Scalable Growth",
+      "Meta Description": "Here’s a hard truth founders learn painfully: Building an app is easy. Building an app people keep using is hard.",
+      "Sections": [
+        {
+          "id": "problem",
+          "title": "The Problem: Apps Are Launched Without Architecture",
+          "content": "Most apps fail because:\n• Features are built without user data\n• Performance breaks under real traffic\n• Security is added too late\n• Updates introduce new bugs\n\nFounders experience this as:\n• Low retention\n• Poor app store reviews\n• High re-development costs"
+        },
+        {
+          "id": "story",
+          "title": "A Real Story: When a Promising App Started Losing Users",
+          "content": "A startup launched a feature-rich mobile app and gained early traction.\nWithin weeks:\n• App crashes increased\n• Load times frustrated users\n• Churn quietly climbed\n\nWe re-engineered the app using a performance-first, cloud-native approach.\nResults after 90 days:\n• Crash rate reduced by 72%\n• Session duration increased by 41%\n• Release cycles shortened from weeks to days\n\nThe app didn’t need more features — it needed better foundations."
+        },
+        {
+          "id": "framework",
+          "title": "The AICYRO App Development Framework",
+          "content": "1. Architecture Before Features\nWe design:\n• Scalable backend services\n• Secure APIs\n• Modular frontend components\nThis prevents expensive rewrites later.\n\n2. Cross-Platform Without Compromise\nUsing modern frameworks:\n• Faster development\n• Consistent UX across devices\n• Lower maintenance costs\nOne codebase. Multiple platforms.\n\n3. Performance & Reliability Engineering\nApps are built to handle:\n• Traffic spikes\n• Slow networks\n• Real-world user behavior\nPerformance is tested before users complain.\n\n4. Built-In Security\nFrom day one:\n• Secure authentication\n• Encrypted data storage\n• API protection\n\n5. Continuous Delivery & Feedback Loops\nEvery release includes:\n• Automated testing\n• User behavior analytics\n• Rapid iteration"
+        },
+        {
+          "id": "truth",
+          "title": "What No One Tells You About App Development",
+          "content": "❌ Feature count doesn’t drive retention\n❌ Speed without testing creates churn\n✔ Reliability builds trust\n✔ Performance drives engagement\n✔ Data shapes better products"
+        },
+        {
+          "id": "actionable",
+          "title": "Actionable Takeaways for Founders",
+          "content": "• Design app architecture before writing UI\n• Optimize performance for real-world networks\n• Secure data from the first commit\n• Use analytics to guide feature decisions\n• Release small, test often, iterate fast"
+        },
+        {
+          "id": "advantage",
+          "title": "Why App Development Is a Business Advantage",
+          "content": "✔ Higher retention\n✔ Better reviews\n✔ Faster iteration\n✔ Lower long-term costs\n✔ Scalable growth\n\nIn 2025, great apps are engineered — not just built."
+        },
+        {
+          "id": "cta",
+          "title": "Build Apps Users Trust",
+          "content": "To help teams build apps that scale and retain users, AICYRO offers:\n• Free App Architecture Review\n• Mobile Performance Checklist (2025)\n• App Development Strategy Consultation\n\nKeep coming back."
+        }
+      ]
+    },
+    "Blockchain": {
+      "Title": "Blockchain in 2025: Production-Ready Systems",
+      "Meta Description": "Let’s start with a hard truth founders respect: Blockchain doesn’t fail because of technology. It fails because of bad use cases.",
+      "Sections": [
+        {
+          "id": "problem",
+          "title": "The Problem: Most Blockchain Projects Never Reach Production",
+          "content": "Many blockchain initiatives fail due to:\n• No clear business problem\n• High transaction costs\n• Poor performance at scale\n• Security flaws in smart contracts\n\nFounders feel this as:\n• Burned budgets\n• Delayed launches\n• Lost credibility"
+        },
+        {
+          "id": "story",
+          "title": "A Real Story: When “Decentralization” Wasn’t the Answer",
+          "content": "A fintech startup wanted blockchain “because competitors had it.”\nWhat we uncovered:\n• Centralized workflows were faster\n• Trust issues came from poor auditability — not lack of blockchain\n\nWe designed a hybrid blockchain architecture focused on:\n• Immutable audit logs\n• Smart contract-based validation\n• Off-chain performance optimization\n\nResults within 120 days:\n• Audit time reduced by 60%\n• Operational disputes eliminated\n• Compliance reporting automated\n\nBlockchain wasn’t the product — trust was."
+        },
+        {
+          "id": "framework",
+          "title": "The AICYRO Blockchain Framework",
+          "content": "1. Use-Case-First Design\nWe ask first:\n• What trust problem exists?\n• Who needs verification?\n• What must be immutable?\nNo blockchain without a reason.\n\n2. Smart Contract Security\nSmart contracts are:\n• Reviewed\n• Tested\n• Audited\nOne bug can cost millions. We don’t guess.\n\n3. Performance-Optimized Architecture\nWe combine:\n• On-chain logic\n• Off-chain computation\n• Layer-2 scaling\nThis keeps systems fast and affordable.\n\n4. Compliance & Governance Built-In\nEnterprise blockchain requires:\n• Access control\n• Audit trails\n• Regulatory alignment\n\n5. Integration With Existing Systems\nBlockchain must integrate with:\n• ERP\n• Payments\n• Identity systems"
+        },
+        {
+          "id": "truth",
+          "title": "What No One Tells You About Blockchain",
+          "content": "❌ Blockchain is not always the answer\n❌ Public chains aren’t always ideal\n✔ Trust problems need trust architecture\n✔ Hybrid models outperform pure decentralization"
+        },
+        {
+          "id": "actionable",
+          "title": "Actionable Takeaways for Founders",
+          "content": "• Start with a trust problem, not technology\n• Design hybrid architectures for performance\n• Audit smart contracts before deployment\n• Plan governance early\n• Measure ROI beyond hype metrics"
+        },
+        {
+          "id": "advantage",
+          "title": "Why Blockchain Is a Strategic Advantage",
+          "content": "✔ Immutable auditability\n✔ Reduced disputes\n✔ Automated trust\n✔ Transparent operations\n✔ Strong compliance posture\n\nIn 2025, blockchain is infrastructure — not a buzzword."
+        },
+        {
+          "id": "cta",
+          "title": "Build Trust. Scale Securely.",
+          "content": "To help companies build blockchain systems that actually work, AICYRO offers:\n• Free Blockchain Use-Case Assessment\n• Smart Contract Security Checklist\n• Blockchain Architecture Consultation\n\nReduce friction."
+        }
+      ]
+    }
+  },
+  "Protfolio": {
+    "body-language-ai": {
+      "id": "01",
+      "tag": "AI & Computer Vision",
+      "title": "AI-Based Body Language Analysis",
+      "overview": "Developed an AI-powered system that analyzes body language and communication behavior using video and audio inputs. The solution detects facial micro-expressions, posture, gestures, and vocal tone to evaluate confidence, engagement, and emotional cues. It provides actionable feedback to improve communication skills for interviews, public speaking, and remote coaching.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/Bodylanguage-ai.jpg",
+      "description": "Built an AI system detecting non-verbal cues via video/audio to provide actionable coaching for better communication skills.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/Bodylanguage-ai.jpg",
+      "projectUrl": "portfolio/bodylanguage",
+
+      "details": {
+        "country": "Philadelphia, PA",
+        "duration": "6 months",
+        "developers": "9 developers"
+      },
+
+      "meta": [
+        { "label": "Role", "value": "ML & CV Engineer", "icon": "scan" },
+        { "label": "Input", "value": "Audio/Video Stream", "icon": "video" },
+        { "label": "Model", "value": "Multi-Modal CNN", "icon": "mic" }
+      ],
+      "scope": [
+        "Facial Micro-expression Detection",
+        "Real-time Posture Analysis",
+        "Speech Emotion Recognition (SER)",
+        "Engagement & Confidence Scoring",
+        "Gestural Communication Tracking",
+        "Remote Coaching Feedback Loop"
+      ],
+      "deliverables": [
+        "Computer Vision Analysis Engine",
+        "Emotion Recognition Model",
+        "Speech Signal Processing Module",
+        "Performance Dashboard UI",
+        "Actionable Insight Generator"
+      ],
+      "techStack": [
+        "Python",
+        "Computer Vision",
+        "Machine Learning",
+        "TensorFlow / PyTorch",
+        "OpenCV",
+        "Librosa (Audio)",
+        "Data Analysis",
+        "React.js (Dashboard)"
+      ]
+    },
+    "sales-ai-automation": {
+      "id": "02",
+      "tag": "Workflow Automation",
+      "title": "AI Sales Automation",
+      "overview": "Developed an end-to-end AI-powered sales automation platform that qualifies leads, engages prospects via chat, books meetings, updates CRM records, and generates actionable analytics. The solution reduced manual work, increased lead conversion, and provided real-time business insights, enabling the sales team to focus on high-value opportunities while the AI handles repetitive tasks.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/AI%20Sales%20Automation.jpg",
+      "description": "Developed an AI sales platform: qualifies leads, engages via chat, books meetings, updates CRM, and generates analytics.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/AI%20Sales%20Automation.jpg",
+      "projectUrl": "portfolio/saleautomation",
+      "details": {
+        "country": "Remote / Global",
+        "duration": "4 months",
+        "developers": "Solo Engineer"
+      },
+      "meta": [
+        { "label": "Role", "value": "AI Auto. Engineer", "icon": "bot" },
+        { "label": "System", "value": "End-to-End Workflow", "icon": "zap" },
+        { "label": "Output", "value": "Qualified Leads", "icon": "db" }
+      ],
+      "scope": [
+        "Lead Qualification & Scoring",
+        "Chatbot Prospect Engagement",
+        "Automated Meeting Booking",
+        "CRM Record Syncing",
+        "Analytics & Insight Generation",
+        "Email Sequence Automation"
+      ],
+      "deliverables": [
+        "Interactive System Prototype",
+        "AI Model Training Pipeline",
+        "Automated Workflow Scripts",
+        "Production Rollout Plan",
+        "Documentation & User Guide"
+      ],
+      "techStack": [
+        "LLM Engineering",
+        "Prompt Engineering",
+        "Python",
+        "Workflow Automation (n8n/Zapier)",
+        "CRM Integration",
+        "Vector Databases",
+        "API Development"
+      ]
+    },
+
+    "ai-tutor": {
+      "id": "03",
+      "tag": "EdTech & AI",
+      "title": "Personalized AI Tutor",
+      "overview": "Developed an intelligent tutoring system that adapts lesson difficulty, questions, and explanations in real-time based on student performance. Implemented Deep Knowledge Tracing (DKT) to model learner mastery and transformer-based models to generate personalized questions and feedback. The system was trained on educational datasets (ASSISTments, EduNet) to improve engagement and reduce learning time.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/Aitutor.jpg",
+      "description": "Intelligent tutoring system using Deep Knowledge Tracing and Transformers for adaptive learning paths and personalized feedback.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/Aitutor.jpg",
+      "projectUrl": "portfolio/aitutor",
+      "details": {
+        "country": "Remote",
+        "duration": "5 months",
+        "developers": "3 Developers"
+      },
+      "meta": [
+        { "label": "Role", "value": "Full-Stack AI Eng.", "icon": "brain" },
+        { "label": "Model", "value": "Transformers / DKT", "icon": "book" },
+        { "label": "Goal", "value": "Mastery Learning", "icon": "target" }
+      ],
+      "scope": [
+        "Deep Knowledge Tracing (DKT)",
+        "Adaptive Difficulty Scaling",
+        "Transformer Question Generation",
+        "Student Mastery Modeling",
+        "Real-time Feedback Loop",
+        "Dataset Integration (ASSISTments)"
+      ],
+      "deliverables": [
+        "Adaptive Learning Algorithm",
+        "Student Dashboard UI",
+        "Teacher Analytics Panel",
+        "Question Generation Model",
+        "API for Content Delivery"
+      ],
+      "techStack": [
+        "Python",
+        "PyTorch",
+        "FastAI",
+        "NumPy",
+        "Transformers (Hugging Face)",
+        "React.js",
+        "Node.js"
+      ]
+    },
+
+    "robotics-control": {
+      "id": "04",
+      "tag": "Robotics & RL",
+      "title": "AI-Powered Robotic Control Platform",
+      "overview": "Designed and implemented an end-to-end AI robotics control system enabling robotic arms and humanoid robots to learn goal-based behaviors instead of rigid instructions. Built physics-accurate simulations using PyBullet, trained agents with reinforcement learning (Stable Baselines3, RLlib), and integrated OpenCV & MediaPipe for vision-based perception. Implemented simulation-to-real transfer techniques to deploy trained policies on real robotic hardware, enabling adaptive, real-world manipulation and control.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/robotics.jpg",
+      "description": "Built AI robotics control system letting robotic arms and humanoid robots learn goal-driven behaviors, not fixed rules at scale.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/robotics.jpg",
+      "projectUrl": "portfolio/robotics",
+      "details": {
+        "country": "Boston, MA",
+        "duration": "8 months",
+        "developers": "4 Engineers"
+      },
+      "meta": [
+        { "label": "Role", "value": "AI Robotics Eng.", "icon": "bot" },
+        { "label": "Tech", "value": "RL & Comp. Vision", "icon": "cpu" },
+        { "label": "Output", "value": "Adaptive Control", "icon": "eye" }
+      ],
+      "scope": [
+        "Physics-Accurate Simulation (PyBullet)",
+        "Reinforcement Learning Agents",
+        "Vision-Based Perception (OpenCV)",
+        "Goal-Oriented Behavior Learning",
+        "Sim-to-Real Transfer Pipelines",
+        "Real-World Hardware Deployment"
+      ],
+      "deliverables": [
+        "Custom Simulation Environment",
+        "Trained RL Policy Models",
+        "Computer Vision Module",
+        "Control Interface API",
+        "Hardware Integration Scripts"
+      ],
+      "techStack": [
+        "Python",
+        "PyBullet",
+        "Stable Baselines3",
+        "RLlib",
+        "OpenCV",
+        "MediaPipe",
+        "PyTorch",
+        "ROS 2"
+      ]
+    },
+
+    "auto-scholar": {
+      "id": "05",
+      "tag": "NLP & Research AI",
+      "title": "AutoScholar: Autonomous Research Augmentation",
+      "overview": "Designed and developed an autonomous AI research assistant that answers scientific research questions by reading and analyzing academic papers. The system retrieves relevant literature from the S2ORC dataset using SciBERT embeddings, extracts key insights with NLP techniques, and synthesizes evidence-backed summaries using LangChain-based reasoning. It automatically generates accurate citations, enabling faster and more reliable literature reviews for researchers and students.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/autoscholor.jpg",
+      "description": "Autonomous AI research assistant that reads, analyzes, and synthesizes academic papers to answer complex scientific questions.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/autoscholor.jpg",
+      "projectUrl": "portfolio/autoscholor",
+      "details": {
+        "country": "London, UK",
+        "duration": "6 months",
+        "developers": "Solo Project"
+      },
+      "meta": [
+        { "label": "Role", "value": "AI Research Eng.", "icon": "search" },
+        {
+          "label": "Dataset",
+          "value": "S2ORC / Semantic Scholar",
+          "icon": "book"
+        },
+        { "label": "Method", "value": "RAG + LangChain", "icon": "network" }
+      ],
+      "scope": [
+        "Semantic Paper Retrieval (SciBERT)",
+        "Automated Insight Extraction",
+        "Evidence-Backed Summarization",
+        "Citation Generation & Verification",
+        "Question Answering Pipeline (RAG)",
+        "Knowledge Graph Construction"
+      ],
+      "deliverables": [
+        "Autonomous Agent Framework",
+        "Streamlit Research Dashboard",
+        "Embeddings Vector Database",
+        "Citation Validation Module",
+        "Research Summary Generator"
+      ],
+      "techStack": [
+        "Python",
+        "LangChain",
+        "SciBERT",
+        "Pinecone / FAISS",
+        "OpenAI API (GPT-4)",
+        "S2ORC Dataset",
+        "Streamlit"
+      ]
+    },
+
+    "health-analyzer": {
+      "id": "06",
+      "tag": "Healthcare & AI",
+      "title": "AI-Based Multimodal Health Analyzer",
+      "overview": "Developed a smart health and wellness platform that predicts stress, burnout, and sleep issues using multimodal AI. The system analyzes voice signals, facial micro-expressions, and time-series health data to generate real-time insights. I built a privacy-first, user-friendly frontend dashboard that visualizes trends, risk levels, and actionable wellness indicators by integrating NLP, computer vision, and time-series analysis into a scalable web application.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/healthanalyser.jpg",
+      "description": "Smart health platform predicting stress and sleep issues using multimodal AI voice, face time-series with privacyfirst dashboard",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/healthanalyser.jpg",
+      "projectUrl": "portfolio/healthanalyser",
+      "details": {
+        "country": "Remote",
+        "duration": "5 months",
+        "developers": "Solo Full-Stack"
+      },
+      "meta": [
+        { "label": "Role", "value": "Full-Stack AI Eng.", "icon": "brain" },
+        { "label": "Inputs", "value": "Voice, Face, Vitals", "icon": "heart" },
+        { "label": "Goal", "value": "Burnout Prediction", "icon": "moon" }
+      ],
+      "scope": [
+        "Facial Micro-expression Analysis",
+        "Voice/Audio Signal Processing",
+        "Time-Series Health Data Integration",
+        "Real-time Stress Prediction",
+        "Sleep Quality Correlation",
+        "Privacy-First Data Handling"
+      ],
+      "deliverables": [
+        "Interactive Patient Dashboard",
+        "Multimodal AI Inference Engine",
+        "Real-time Alert System",
+        "Trend Visualization Modules",
+        "API for Wearable Integration"
+      ],
+      "techStack": [
+        "Next.js",
+        "React.js",
+        "Python",
+        "PyTorch",
+        "OpenCV",
+        "Librosa",
+        "Time-Series Analysis",
+        "Tailwind CSS"
+      ]
+    },
+
+    "kaira": {
+      "id": "07",
+      "tag": "EXPERT SERVICES",
+      "title": "Kaira - AI Financial Wellness Coach",
+      "overview": "Kaira is an AI-powered personalized financial wellness application offered as a benefit to employees. It connects securely to financial institutions to track behavior, offering digital coaching to improve financial health and reduce stress. Employers gain access to 'Kaira Insight', a business intelligence dashboard to monitor the aggregated financial well-being of their workforce.",
+      "description": "Kaira is an AI financial wellness benefit. It offers employee coaching and a business dashboard to track workforce well-being.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/kaira.jpg",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/kaira.jpg",
+      "projectUrl": "/portfolio/kaira",
+      "details": {
+        "country": "Montreal, Canada",
+        "duration": "5 months",
+        "developers": "5 developers"
+      },
+
+      "meta": [
+        { "label": "Location", "value": "Montreal, Canada", "icon": "map" },
+        { "label": "Duration", "value": "5 months", "icon": "clock" },
+        { "label": "Team Size", "value": "6 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Financial Health & Behavioral Assessment",
+        "Secure Banking Data Aggregation",
+        "Personalized AI Financial Coaching",
+        "Expense Tracking & Budgeting",
+        "Employer Business Intelligence Dashboard",
+        "Data Security & Anonymization"
+      ],
+      "deliverables": [
+        "Kaira Mobile App (iOS & Android)",
+        "Kaira Insight Dashboard (Web)",
+        "Financial Health Reports",
+        "Employee Engagement Metrics",
+        "Personalized Action Plans"
+      ],
+      "techStack": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Python",
+        "iOS (Swift)",
+        "Android (Kotlin)",
+        "Flinks API",
+        "Wealthica API",
+        "OneSignal",
+        "Cloud SaaS",
+        "256-bit SSL Encryption"
+      ]
+    },
+
+    "nyctourism": {
+      "id": "08",
+      "tag": "EXPERT SERVICES",
+      "title": "New York City Tourism",
+      "overview": "The official destination marketing organization and convention and visitors bureau for New York City. The platform serves as the primary resource for visitors, meeting planners, and travel trade, featuring dynamic guides for all five boroughs, an AI-powered travel companion (Libby), and comprehensive booking tools for hotels, dining, and Broadway shows.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/NYC.jpg",
+      "description": "NYC official tourism platform serving visitors and planners with borough guides, AI travel companion, and booking tools global..",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/NYC.jpg",
+      "projectUrl": "/portfolio/nyctourism",
+
+      "details": {
+        "country": "New York, NY, USA",
+        "duration": "8 months",
+        "developers": "5 developers"
+      },
+
+      "meta": [
+        { "label": "Location", "value": "New York, NY, USA", "icon": "map" },
+        { "label": "Duration", "value": "8 months", "icon": "clock" },
+        { "label": "Team Size", "value": "5 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Official DMO Website Rebranding & Development",
+        "AI Travel Assistant Integration (Libby)",
+        "B2B Meeting Planner & Membership Portals",
+        "Dynamic Content Management for 5 Boroughs",
+        "Real-time Event Calendars & Ticketing",
+        "Tourism Research & Insights Dashboard"
+      ],
+      "deliverables": [
+        "Next.js/React Web Application",
+        "Mobile-Responsive Visitor Guide",
+        "Libby AI Chatbot Interface",
+        "Simpleview DAM/CRM Integration",
+        "Visa Destination Insights Analytics"
+      ],
+      "techStack": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "Simpleview (CMS/CRM)",
+        "Algolia Search",
+        "Google Maps API",
+        "Sailthru",
+        "AWS",
+        "Fever Integration",
+        "Visa Destination Insights"
+      ]
+    },
+    "Shady": {
+      "id": "09",
+      "tag": "EXPERT SERVICES",
+      "title": "Shady Rays - High-Performance Eyewear",
+      "overview": "Shady Rays is a premier direct-to-consumer eyewear brand offering high-quality, polarized sunglasses backed by an industry-leading 'Lost & Broken' replacement warranty. The platform features a custom-built warranty claims portal, virtual try-on technology, and a VIP loyalty program, all integrated within a high-performance Shopify Plus e-commerce environment.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/ShadyRays.jpg",
+      "description": "Shady Rays is a DTC eyewear brand selling polarized sunglasses with Lost & Broken warranty, virtual try-on, and Shopify Plus UX.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/ShadyRays.jpg",
+      "projectUrl": "/portfolio/shady",
+
+      "details": {
+        "country": "Simpsonville, KY, USA",
+        "duration": "9 months",
+        "developers": "6 developers"
+      },
+
+      "meta": [
+        {
+          "label": "Location",
+          "value": "Simpsonville, KY, USA",
+          "icon": "map"
+        },
+        { "label": "Duration", "value": "9 months", "icon": "clock" },
+        { "label": "Team Size", "value": "6 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Shopify Plus Storefront Development",
+        "Custom 'Lost & Broken' Warranty Portal",
+        "Virtual Try-On Feature Integration",
+        "Prescription (Rx) Lens Configuration",
+        "VIP Loyalty & Rewards Program",
+        "Charitable Impact Tracking System"
+      ],
+      "deliverables": [
+        "Mobile-First E-commerce Website",
+        "Automated Warranty Claims System",
+        "Real-time Inventory Management Integration",
+        "Custom Product Filtering & Search",
+        "Marketing Automation Setup (Email/SMS)"
+      ],
+      "techStack": [
+        "Shopify Plus",
+        "Liquid",
+        "React.js",
+        "JavaScript",
+        "Node.js",
+        "Klaviyo",
+        "Yotpo",
+        "AWS",
+        "Google Analytics 4",
+        "Postscript"
+      ]
+    },
+    "JBB": {
+      "id": "10",
+      "tag": "EXPERT SERVICES",
+      "title": "JBB & Associates - CPA & Business Advisory",
+      "overview": "A professional digital platform for a Philadelphia-based accounting and advisory firm. The website streamlines client engagement through integrated appointment scheduling, secure document portals, and comprehensive service funnels for tax preparation, bookkeeping, and business formation.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/Jbband.jpg",
+      "description": "Professional digital platform for a Philadelphia accounting firm with scheduling, secure portals, and service funnels for clients..",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/Jbband.jpg",
+      "projectUrl": "/portfolio/jbb",
+
+      "details": {
+        "country": "Philadelphia, PA",
+        "duration": "6 months",
+        "developers": "9 developers"
+      },
+
+      "meta": [
+        { "label": "Location", "value": "Philadelphia, PA", "icon": "map" },
+        { "label": "Duration", "value": "6 months", "icon": "clock" },
+        { "label": "Team Size", "value": "9 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Tax Preparation & Planning (Individual/Corporate)",
+        "Business Formation & Entity Optimization",
+        "Outsourced Bookkeeping & Payroll",
+        "CFO-Level Advisory Services",
+        "Secure Client Document Portal",
+        "Automated Appointment Scheduling"
+      ],
+      "deliverables": [
+        "Responsive Corporate Website",
+        "Client Onboarding Workflows",
+        "Secure Client Portal Integration",
+        "Tax Savings Analysis Tools",
+        "Industry-Specific Landing Pages"
+      ],
+      "techStack": [
+        "WordPress",
+        "PHP",
+        "HTML5 / CSS3",
+        "JavaScript",
+        "QuickBooks Online API",
+        "Google Analytics",
+        "Calendly Integration",
+        "MySQL",
+        "SSL/TLS Security",
+        "Cloud Hosting"
+      ]
+    },
+
+    "Politico": {
+      "id": "11",
+      "tag": "EXPERT SERVICES",
+      "title": "POLITICO Pro - Policy Intelligence Platform",
+      "overview": "POLITICO Pro is a premium, customizable policy intelligence platform designed for government affairs professionals. It combines rigorous non-partisan reporting with advanced data tools, AI-driven analysis, and legislative tracking to help users monitor developments, collaborate on strategy, and influence policy outcomes at both federal and state levels.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/politicopro.jpg",
+      "description": "POLITICO Pro is a premium policy intelligence platform combining nonpartisan reporting, AI analysis, data tools, and tracking!!!",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/politicopro.jpg",
+
+      "projectUrl": "/portfolio/politico",
+      "details": {
+        "country": "Arlington, Virginia, USA",
+        "duration": "5 months",
+        "developers": "6 developers"
+      },
+
+      "meta": [
+        {
+          "label": "Location",
+          "value": "Arlington, Virginia, USA",
+          "icon": "map"
+        },
+        { "label": "Duration", "value": "5 months", "icon": "clock" },
+        { "label": "Team Size", "value": "6 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Legislative & Regulatory Tracking System",
+        "AI-Powered Policy Intelligence Assistant",
+        "Stakeholder Management & Engagement Tools",
+        "Real-time News & Custom Alert Feeds",
+        "Collaborative Workflow Workspaces (Pro Projects)",
+        "Federal & State Policymaker Directories"
+      ],
+      "deliverables": [
+        "SaaS Web Platform & Mobile Application",
+        "Interactive Data Visualizations & Dashboards",
+        "AI-Generated Bill Summaries & Reports",
+        "Document Repository (Transcripts, Bill Texts)",
+        "API Integration for Data Feeds"
+      ],
+      "techStack": [
+        "Brightspot CMS",
+        "Java",
+        "React.js",
+        "Apache Solr",
+        "Generative AI / NLP Models",
+        "AWS (Amazon Web Services)",
+        "MySQL",
+        "GraphQL",
+        "Single Sign-On (SSO)",
+        "Node.js"
+      ]
+    },
+
+    "Cove": {
+      "id": "12",
+      "tag": "EXPERT SERVICES",
+      "title": "Cove.ai - Visual AI Collaboration Workspace",
+      "overview": "Cove is an intelligent visual workspace designed for collaborative thinking with AI. Unlike linear chatbots, it offers an infinite canvas where users and AI work side-by-side to research, plan, and create. It features real-time multiplayer editing, multi-model AI integration (Anthropic, OpenAI, Perplexity), and the ability to generate custom 'AI Apps' on the fly for specific tasks.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/cove%20ai.jpg",
+      "description": "Cove is an AI visual workspace with infinite canvas for research and planning, real-time collaboration, multi-model AI apps. Now",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/cove%20ai.jpg",
+      "projectUrl": "/portfolio/cove",
+
+      "details": {
+        "country": "Palo Alto, CA",
+        "duration": "3 months",
+        "developers": "6 developers"
+      },
+
+      "meta": [
+        { "label": "Location", "value": "Palo Alto, CA", "icon": "map" },
+        { "label": "Duration", "value": "3 months", "icon": "clock" },
+        { "label": "Team Size", "value": "6 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Visual Workspace & Infinite Canvas UI",
+        "Multi-LLM Orchestration (Claude, GPT-4, Llama)",
+        "Real-Time Multiplayer Collaboration Engine",
+        "Context-Aware Search & Web Clipping Extension",
+        "No-Code 'AI Apps' Generator",
+        "Document & Webpage Context Integration"
+      ],
+      "deliverables": [
+        "Cove.ai Web Application",
+        "Chrome Browser Extension",
+        "Interactive 'Cards' System (Text, Tables, Images)",
+        "Shared Knowledge Base/Spaces",
+        "Custom AI Tooling Interface"
+      ],
+      "techStack": [
+        "React.js",
+        "Canvas API / WebGL",
+        "Node.js",
+        "WebSockets",
+        "Anthropic API (Claude 3.5 Sonnet/Haiku)",
+        "OpenAI API",
+        "Perplexity API",
+        "Vector Database",
+        "AWS"
+      ]
+    },
+    "HPL": {
+      "id": "13",
+      "tag": "EXPERT SERVICES",
+      "title": "HPL Games - Web3 Token & Gaming Ecosystem",
+      "overview": "A blockchain-powered web application and smart contract ecosystem designed for HPL Games, an innovative mobile gaming startup. The platform facilitates the Initial Coin Offering (ICO) of the HPL token, integrates a Play-to-Earn (P2E) economy, and provides a secure infrastructure for in-game currency transactions. Key features include a pre-sale token purchasing interface, liquidity pool management, and seamless crypto wallet connectivity.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/cubix.co.jpg",
+
+      "description": "Blockchain web app for HPL Games enabling ICO, Play-to-Earn economy, token pre-sale, liquidity pools, and crypto wallet access.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/cubix.co.jpg",
+      "projectUrl": "/portfolio/hpl",
+
+      "details": {
+        "country": "San Francisco, USA",
+        "duration": "7 months",
+        "developers": "6 developers"
+      },
+
+      "meta": [
+        { "label": "Location", "value": "San Francisco, USA", "icon": "map" },
+        { "label": "Duration", "value": "7 months", "icon": "clock" },
+        { "label": "Team Size", "value": "6 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Smart Contract Development",
+        "ICO & Token Presale Web App",
+        "Crypto Wallet Integration",
+        "Tokenomics & Tax Logic Implementation",
+        "Blockchain Security Infrastructure",
+        "Admin Dashboard for Sales Tracking"
+      ],
+      "deliverables": [
+        "Token Purchasing Web Application",
+        "Deployed HPL Smart Contract",
+        "Secure Wallet Connection Module",
+        "Real-time Transaction Tracker",
+        "Mobile-Responsive User Interface"
+      ],
+      "techStack": [
+        "Blockchain",
+        "Solidity",
+        "Web3.js",
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "AWS",
+        "Smart Contracts",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+
+    "GO": {
+      "id": "14",
+      "tag": "EXPERT SERVICES",
+      "title": "Go Grocer - Ultra-Fast Grocery & Alcohol Delivery",
+      "overview": "Go Grocer is a boutique grocery chain based in Chicago that bridges the gap between a neighborhood market and ultra-fast delivery. The digital platform transforms their brick-and-mortar footprint into a hybrid fulfillment network, offering customers fresh meals, alcohol, and essentials via a seamless web and mobile app experience, often delivering in under 30 minutes.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/Go%20Grocer.jpg",
+
+      "description": "Go Grocer is a Chicago grocery chain with hybrid fulfillment, fast delivery under 30 min, fresh meals, alcohol, and essentials online.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/Go%20Grocer.jpg",
+      "projectUrl": "/portfolio/go",
+
+      "details": {
+        "country": "Chicago, IL",
+        "duration": "8 months",
+        "developers": "5 developers"
+      },
+
+      "meta": [
+        { "label": "Location", "value": "Chicago, IL", "icon": "map" },
+        { "label": "Duration", "value": "8 months", "icon": "clock" },
+        { "label": "Team Size", "value": "5 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Hybrid E-commerce Platform (Web & Mobile)",
+        "Ultra-Fast Local Delivery Integration",
+        "Alcohol Sales & Compliance Verification",
+        "Real-Time Inventory Management (4,000+ SKUs)",
+        "Store Locator & Pickup Coordination",
+        "Loyalty Program & Customer Account Management"
+      ],
+      "deliverables": [
+        "Responsive Squarespace Website",
+        "Native iOS & Android Mobile Apps",
+        "Delivery Logistics Dashboard",
+        "User Journey Maps & Wireframes",
+        "Brand Identity & Digital Assets"
+      ],
+      "techStack": [
+        "Squarespace",
+        "Flutter",
+        "Google Maps API",
+        "Stripe Integration",
+        "DoorDash Drive API",
+        "Firebase",
+        "Google Analytics",
+        "Mailchimp",
+        "HTML5/CSS3",
+        "JavaScript"
+      ]
+    },
+
+    "ZIPZAP": {
+      "id": "15",
+      "tag": "EXPERT SERVICES",
+      "title": "ZipZap - Flexible Car Subscription Platform",
+      "overview": "ZipZap is a premier car subscription service in Singapore launched by GetGo, offering a flexible, no-deposit alternative to traditional car ownership. The platform allows users to lease vehicles for as short as 6 months with an all-inclusive fee covering insurance, road tax, and maintenance. A key innovation is the 'Subscribe & Share' feature, which enables subscribers to list their idle vehicles on the GetGo car-sharing network to offset subscription costs.",
+      "imageUrl": "https://dummyimages.netlify.app/portfolioimagaes/zipzap.jpg",
+      "description": "ZipZap by GetGo is a Singapore car subscription service with flexible 6‑month leases, all-inclusive fees, and a Subscribe & Share option.",
+      "imageSrc": "https://dummyimages.netlify.app/portfolioimagaes/zipzap.jpg",
+      "projectUrl": "/portfolio/zipzap",
+
+      "details": {
+        "country": "Singapore",
+        "duration": "6 months",
+        "developers": "5 developers"
+      },
+
+      "meta": [
+        { "label": "Location", "value": "Singapore", "icon": "map" },
+        { "label": "Duration", "value": "6 months", "icon": "clock" },
+        { "label": "Team Size", "value": "5 developers", "icon": "users" }
+      ],
+      "scope": [
+        "Car Subscription Management & Leasing Logic",
+        "Digital Inventory Catalog (New/Used, EV/Hybrid)",
+        "'Subscribe & Share' Fleet Integration (Beta)",
+        "Financial Health & Identity Verification Workflows",
+        "Recurring Billing & All-Inclusive Payment Processing",
+        "Customer Support CRM Integration"
+      ],
+      "deliverables": [
+        "Marketing Website & Lead Capture Portal",
+        "Subscriber Dashboard for Lease Management",
+        "GetGo Fleet API Integration Module",
+        "Admin Panel for Vehicle & Application Processing",
+        "Automated Billing & Invoicing System"
+      ],
+      "techStack": [
+        "Webflow",
+        "React.js",
+        "Node.js",
+        "AWS (Amazon Web Services)",
+        "PostgreSQL",
+        "Stripe API",
+        "GetGo Platform API",
+        "HubSpot CRM"
+      ]
+    }
+  },
+
+  "login":{
+    "1": {
+      "name": "root",
+      "password" : "admin"
+    },
+    "2": {
+      "name": "admin",
+      "password" : "root"
+    },
+    "3": {
+      "name": "moid",
+      "password" : "moid"
+    }
+  }
+}
