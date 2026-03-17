@@ -1,0 +1,116 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap"); */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 1. DEFINE THEMES */
+
+/* --- DEFAULT (Dark Mode) --- */
+:root {
+  --background: #0A0118;       
+  --foreground: #ffffff;
+  --foreground-muted: #9ca3af; 
+  
+  /* Brand Colors */
+  --primary: #8A2BE2;
+  --secondary: #7B71DB;
+  --accent-blue: #5B86D3;      
+  
+  /* UI Elements */
+  --border-color: rgba(255, 255, 255, 0.1);
+  --card-bg: #120B18;
+  --grid-line: #4a4a6a;
+  --spotlight-opacity: 0.08;
+  
+  /* Footer Specific */
+  --footer-bg: #060010;
+  
+  /* Logo Colors */
+  --logo-base: #ffffff;
+  --logo-mongo-green: #ffffff;
+  --logo-upwork-green: #ffffff;
+  --logo-politico-red: #ffffff;
+
+  /* Gradients */
+  --card-gradient-start: #1F1629;
+  --card-gradient-end: #120B18;
+  
+  /* Hero Spotlight Gradient */
+  --hero-from: #1e1b4b; 
+  --hero-via: #0A0118;  
+  --hero-to: #0B0219;   
+
+  /* --- LEAD MAGNET SECTION (Separated) --- */
+  --lead-from: #2e1065; /* Deep Purple/Indigo */
+  --lead-via: #0A0118;  /* Match Background */
+  --lead-to: #0B0219;   /* Match Background */
+  --lead-glow: rgba(138, 43, 226, 0.15); /* Primary color low opacity */
+  
+  /* Overlay Gradients */
+  --overlay-gradient-start: rgba(15, 5, 41, 0.8);
+  --overlay-gradient-end: rgba(5, 11, 41, 0.8); 
+  
+  /* Blog Overlay */
+  --image-overlay: rgba(93, 132, 211, 0.9);
+}
+
+/* --- LIGHT MODE OVERRIDE --- */
+[data-theme='light'] {
+  --background: #F4F4F5;       
+  --foreground: #0B0219;       
+  --foreground-muted: #4a4a6a; 
+  
+  /* Brand Colors */
+  --primary: #8A2BE2;
+  --secondary: #7B71DB;
+  --accent-blue: #5B6EC2;
+  
+  /* UI Elements */
+  --border-color: rgba(11, 2, 25, 0.1);
+  --card-bg: #FFFFFF;          
+  --grid-line: rgba(11, 2, 25, 0.05);
+  --spotlight-opacity: 0.15;
+  
+  /* Footer Specific */
+  --footer-bg: #EAEBF0; 
+  
+  /* Logo Colors */
+  --logo-base: #1E292C;
+  --logo-mongo-green: #2ED06E;
+  --logo-upwork-green: #25841F;
+  --logo-politico-red: #d71920;
+
+  /* Gradients */
+  --card-gradient-start: #FFFFFF;
+  --card-gradient-end: #F4F4F5;
+  
+  /* Hero Spotlight Gradient */
+  --hero-from: #E0E7FF; 
+  --hero-via: #F4F4F5;  
+  --hero-to: #FFFFFF; 
+
+  /* --- LEAD MAGNET SECTION (Separated) --- */
+  --lead-from: #E0E7FF; /* Indigo 100 */
+  --lead-via: #F4F4F5;  /* Match Background */
+  --lead-to: #FFFFFF;   /* Match Background */
+  --lead-glow: rgba(138, 43, 226, 0.05); /* Very subtle glow */
+  
+  /* Overlay Gradients */
+  --overlay-gradient-start: rgba(244, 244, 245, 0.8);
+  --overlay-gradient-end: rgba(244, 244, 245, 0.8);
+  
+  /* Blog Overlay */
+  --image-overlay: rgba(123, 113, 219, 0.9);
+}
+
+/* 2. APPLY TO BODY */
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--background);
+  color: var(--foreground);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
+  width: 100%;
+  position: relative;
+}
