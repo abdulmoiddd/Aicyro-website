@@ -1,0 +1,12 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /404
+
+# Host
+Host: https://aicyro.com
+
+# Sitemaps
+Sitemap: https://aicyro.com/sitemap.xml
